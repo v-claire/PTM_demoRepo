@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="8287cc64-dd37-42a3-976d-3bc06029d9f3" />
+					<attribute id="Name" type="LSString" value="HUM_F_BAE_Floatie_Headwear_Goosetarion" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/poolFloaties_1ca6ffff-add3-b062-7f5f-24075d9b1e32/poolFloaties/Meshes/HUM_F_BAE_Floatie_Headwear_Goosetarion.GR2" />
+					<attribute id="Slot" type="FixedString" value="Headwear" />
+					<attribute id="RemapperSlotId" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/poolFloaties_1ca6ffff-add3-b062-7f5f-24075d9b1e32/poolFloaties/Meshes/HUM_F_BAE_Floatie_Headwear_Goosetarion.Dummy_Root.0" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="BoundsMin" type="fvec3" value="0 0 0" />
+					<attribute id="BoundsMax" type="fvec3" value="0 0 0" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<children>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_BAE_Floatie_Headwear_Goosetarion.HUM_F_BAE_Floatie_Headwear_Goose_Mesh.0" />
+							<attribute id="MaterialID" type="FixedString" value="5d3594ae-f8cd-0575-b42d-162922f9ae63" />
+							<attribute id="LOD" type="uint8" value="0" />
+						</node>
+						<node id="Objects">
+							<attribute id="ObjectID" type="FixedString" value="HUM_F_BAE_Floatie_Headwear_Goosetarion.HUM_F_BAE_Floatie_Headwear_Goostarion_Hair_Mesh.1" />
+							<attribute id="MaterialID" type="FixedString" value="3e21df48-e74a-9de8-bfe7-5bf2339b1aa6" />
+							<attribute id="LOD" type="uint8" value="0" />
+						</node>
+						<node id="AnimationWaterfall">
+							<attribute id="Object" type="FixedString" value="" />
+						</node>
+						<node id="ClothProxyMapping" />
+						<node id="Base">
+							<children>
+								<node id="Tags">
+									<attribute id="Object" type="FixedString" value="Never Hide Hair" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="39adf007-ce8d-c621-65be-7a982b65182f" />
+					<attribute id="Name" type="LSString" value="BAE_Floatie_Headwear_Flamingo_NM" />
+					<attribute id="SourceFile" type="LSString" value="Public/poolFloaties_1ca6ffff-add3-b062-7f5f-24075d9b1e32/poolFloaties/MSK/BAE_Floatie_Headwear_Flamingo_NM.DDS" />
+					<attribute id="Template" type="FixedString" value="BAE_Floatie_Headwear_Flamingo_NM" />
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Type" type="int32" value="1" />
+					<attribute id="SRGB" type="bool" value="False" />
+					<attribute id="Width" type="int32" value="256" />
+					<attribute id="Height" type="int32" value="256" />
+					<attribute id="Depth" type="int32" value="1" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

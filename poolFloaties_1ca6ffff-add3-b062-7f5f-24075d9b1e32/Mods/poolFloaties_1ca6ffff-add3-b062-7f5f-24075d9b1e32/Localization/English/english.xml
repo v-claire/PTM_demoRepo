@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="hf2e639a4g8c52g2defg18b8g871db7e4394a" version="7">Duck Floatie Hat</content>
+  <content contentuid="h29906b7eg4b98gf76dg58dag0ccddd7fd06c" version="4">Flamingo Floatie Hat</content>
+  <content contentuid="h49d3a659g56fcgb06eg46e4g680eeb5665fe" version="4">Canada Goose Floatie Hat</content>
+  <content contentuid="h77d56efagc359gc72cg1f87gef1df014716d" version="5">Goostarion Floatie Hat</content>
+  <content contentuid="h4887abe2g48ecg33b5g9bc1g6d0b1836490d" version="1">Head Above Water</content>
+  <content contentuid="hcbe8648bgae34g2f3eg55b1ge8d6f2275366" version="3">The floatation device keeps the wearer above water, making them immune to &lt;LSTag Type="Status" Tooltip="WET"&gt;Wet&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN_DEEPWATER"&gt;Deep Water&lt;/LSTag&gt;</content>
+  <content contentuid="h8b47c967g9457g3cb3g1788g42b6997cfde9" version="1">If the wearer starts their turn in water, gains [1]</content>
+  <content contentuid="hfda5ca65g04bdg898bgcc16gafb911b76858" version="1">Water Walker</content>
+  <content contentuid="h433fc8b9gf526g71b0g86ddg9daba07b9435" version="1">Walk on water</content>
+  <content contentuid="hf98bf31cgc18cg8bdeg9e69g566e3cfcc135" version="1">Affected entity's &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is increased by [1]</content>
+  <content contentuid="h689cec8dg72f5g696eg166eg95d08418b43f" version="2">Wave Walker</content>
+  <content contentuid="hcf5e0b2ageffbg700ege5bdg21c040a045b3" version="5" />
+  <content contentuid="heb29555age4e7gcc15g9e32gf2a0186b9fba" version="5" />
+  <content contentuid="h4fa742f4g54c5g7758gd5d5gc946ba9e7f82" version="5" />
+  <content contentuid="h2c6e7640ge9b8g7779gb1c3g55b08530b442" version="5">A classic rubber  ducky. So wholesome and pure.</content>
+  <content contentuid="h1117e67agc137gbe7cgd6b6gc41b63e0b62f" version="5" />
+  <content contentuid="h46fe32dbg3819g8742gd0c4g795b5c4fd5f8" version="5" />
+  <content contentuid="h4f0d762egd647g310bgdfeegf2b9b79d6383" version="2">The floatation device keeps the wearer above water, making them immune to &lt;LSTag Type="Status" Tooltip="WET"&gt;Wet&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN_DEEPWATER"&gt;Deep Water&lt;/LSTag&gt;&lt;br&gt;&lt;br&gt;Your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; increases by [1] while standing in water.&lt;br&gt;&lt;br&gt;On slippery surfaces, you also have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being knocked &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="hd44611bfgd2d3gd722gf244gae4712532bcc" version="1">extra desc</content>
+  <content contentuid="hcfdf7868gb787gb501g45b3gd35dbfa0da9c" version="1">lore desc</content>
+  <content contentuid="h7e231f5fgc5a7gc29agfa47gc41676a272f8" version="1">Goose Bite</content>
+  <content contentuid="hd8a2911cg6677g2cdeg9cd8g33b2174b9113" version="2">The wearer's armed and unarmed attacks deal an additional [1]</content>
+  <content contentuid="h232ffeebga5cfgd3cdg8054g8386ef0eac93" version="1">Vampire Goose Bite</content>
+  <content contentuid="hd26d269fg79c0g1e9bg3fd6ge6a9307bdaf5" version="1">The wearer's armed and unarmed attacks deal an additional [1] and [2]</content>
+  <content contentuid="h33c869b3g823cg08a3g0c0fg2cb392cbde6f" version="3">&lt;i&gt;Honk, darling&lt;/i&gt;</content>
+  <content contentuid="hd88d7b12g2cbege5acg402eg45ec3cdddd88" version="2">These foul beasts are also known as 'Cobra Chickens'</content>
+  <content contentuid="hac992c2ag2e01g27f6gbaabg0157350cdc20" version="2">She's beauty, she's grace.</content>
+</contentList>

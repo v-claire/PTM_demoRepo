@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="OneTimeRewards">
+        <node id="root">
+            <children>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="1"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="05ac0f4c-de56-4e7c-81c5-0c0f243eb12b"/>
+                    <attribute id="UUID" type="guid" value="6e5117aa-fd96-4aac-a2cf-64996e101c82"/>
+                </node>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="1"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="a13c6f1e-c19f-4a90-b706-0fa97b53f3d0"/>
+                    <attribute id="UUID" type="guid" value="15bb2871-c6d4-42ac-8787-8632312f6708"/>
+                </node>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="1"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="7f3af823-bd6b-41bc-8bae-6c1d195f3964"/>
+                    <attribute id="UUID" type="guid" value="4044337d-f263-4c7f-9a7a-f0ae273be1d3"/>
+                </node>
+                <node id="OneTimeReward">
+                    <attribute id="Amount" type="uint32" value="1"/>
+                    <attribute id="ItemTemplateId" type="FixedString" value="663458b7-57f2-4f36-b074-52ce791d402b"/>
+                    <attribute id="UUID" type="guid" value="3d8cc003-da31-4b04-92c8-76a3f3299385"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

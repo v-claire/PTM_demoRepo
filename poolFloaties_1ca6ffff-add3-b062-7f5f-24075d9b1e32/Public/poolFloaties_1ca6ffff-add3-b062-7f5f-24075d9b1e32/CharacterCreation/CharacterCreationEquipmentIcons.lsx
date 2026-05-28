@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="200"/>
+    <region id="CharacterCreationEquipmentIcons">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationEquipmentIcon">
+                    <attribute id="EquipmentTemplate" type="guid" value="663458b7-57f2-4f36-b074-52ce791d402b"/>
+                    <attribute id="RootTemplate" type="guid" value="75a43caa-175d-446f-a879-77bb3697070c"/>
+                    <attribute id="SlotName" type="FixedString" value="Headwear"/>
+                    <attribute id="UUID" type="guid" value="f1f0e787-f075-49ef-90e4-f44ba7f61ec4"/>
+                </node>
+                <node id="CharacterCreationEquipmentIcon">
+                    <attribute id="EquipmentTemplate" type="guid" value="05ac0f4c-de56-4e7c-81c5-0c0f243eb12b"/>
+                    <attribute id="RootTemplate" type="guid" value="75a43caa-175d-446f-a879-77bb3697070c"/>
+                    <attribute id="SlotName" type="FixedString" value="Hood"/>
+                    <attribute id="UUID" type="guid" value="67aeb211-28af-4993-a443-6adab7fbc7f3"/>
+                </node>
+                <node id="CharacterCreationEquipmentIcon">
+                    <attribute id="EquipmentTemplate" type="guid" value="a13c6f1e-c19f-4a90-b706-0fa97b53f3d0"/>
+                    <attribute id="RootTemplate" type="guid" value="75a43caa-175d-446f-a879-77bb3697070c"/>
+                    <attribute id="SlotName" type="FixedString" value="Hat"/>
+                    <attribute id="UUID" type="guid" value="fdc9f28b-9c3e-4b9b-827e-5e2a84125247"/>
+                </node>
+                <node id="CharacterCreationEquipmentIcon">
+                    <attribute id="EquipmentTemplate" type="guid" value="7f3af823-bd6b-41bc-8bae-6c1d195f3964"/>
+                    <attribute id="RootTemplate" type="guid" value="75a43caa-175d-446f-a879-77bb3697070c"/>
+                    <attribute id="SlotName" type="FixedString" value="Circlet"/>
+                    <attribute id="UUID" type="guid" value="99244966-5f47-4700-bb53-ccc4f1b49173"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
