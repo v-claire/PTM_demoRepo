@@ -33,7 +33,7 @@
                     <attribute id="V2" type="float" value="0.49804688"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="PassiveFeature_BAE_gooseBite"/>
+                    <attribute id="MapKey" type="FixedString" value="PassiveFeature_BAE_gooseBite"/>sadfasdf
                     <attribute id="U1" type="float" value="0.001953125"/>
                     <attribute id="U2" type="float" value="0.24804688"/>
                     <attribute id="V1" type="float" value="0.001953125"/>
@@ -59,7 +59,7 @@
     <region id="TextureAtlasInfo">
         <node id="root">
             <children>
-                <node id="TextureAtlasIconSize">
+                <node id="TextureAtlasIconSize">dszfszDF
                     <attribute id="Height" type="int32" value="64"/>
                     <attribute id="Width" type="int32" value="64"/>
                 </node>
