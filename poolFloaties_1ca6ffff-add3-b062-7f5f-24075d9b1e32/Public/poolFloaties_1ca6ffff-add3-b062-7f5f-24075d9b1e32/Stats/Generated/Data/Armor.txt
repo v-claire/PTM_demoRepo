@@ -26,6 +26,7 @@ new entry "BAE_Pool_Floatie_Headwear_Flamingo"
 type "Armor"
 using "BAE_Pool_Floatie_Headwear_Duck"
 data "RootTemplate" "a13c6f1e-c19f-4a90-b706-0fa97b53f3d0"
-data "Slot" "Helmet"
+
 data "Boosts" "CriticalHit(AttackTarget,Success,Never);Ability(Charisma,2);Ability(Dexterity,2);"
 
+asFsku yhjdlswhf liUSHDFjkSZDHfn kj SAD
