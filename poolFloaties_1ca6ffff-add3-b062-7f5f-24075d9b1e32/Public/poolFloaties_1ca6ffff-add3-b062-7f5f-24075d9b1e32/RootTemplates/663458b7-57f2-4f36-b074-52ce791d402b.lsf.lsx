@@ -28,7 +28,7 @@
 								<node id="DreadLongHair" />
 								<node id="AfroShortHair" />
 								<node id="AfroLongHair" />
-								<node id="Visuals">
+								<node id="Visuals">sadf awsdf
 									<children>
 										<node id="Object" key="MapKey">
 											<attribute id="MapKey" type="guid" value="7d73f501-f65e-46af-a13b-2cacf3985d05" />

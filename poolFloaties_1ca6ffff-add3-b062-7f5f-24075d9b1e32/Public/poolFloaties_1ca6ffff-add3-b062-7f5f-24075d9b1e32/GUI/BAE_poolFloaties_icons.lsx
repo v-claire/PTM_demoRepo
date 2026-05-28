@@ -59,7 +59,7 @@
     <region id="TextureAtlasInfo">
         <node id="root">
             <children>
-                <node id="TextureAtlasIconSize">
+                <node id="TextureAtlasIconSize">dszfszDF
                     <attribute id="Height" type="int32" value="64"/>
                     <attribute id="Width" type="int32" value="64"/>
                 </node>

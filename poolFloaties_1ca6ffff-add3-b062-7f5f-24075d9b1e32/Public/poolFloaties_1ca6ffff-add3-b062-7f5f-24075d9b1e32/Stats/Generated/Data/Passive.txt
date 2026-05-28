@@ -24,3 +24,4 @@ data "DescriptionParams" "DealDamage(2d8, Piercing);DealDamage(2d4, Necrotic);"
 data "Icon" "PassiveFeature_BAE_vampiricGooseBite"
 data "Boosts" "CharacterWeaponDamage(2d8,Piercing);CharacterUnarmedDamage(2d8,Piercing);CharacterWeaponDamage(2d8,Necrotic);CharacterUnarmedDamage(2d8,Necrotic);"
 
+sdafsdfsf
